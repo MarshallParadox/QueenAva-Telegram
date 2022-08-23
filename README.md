@@ -1,4 +1,4 @@
-# Queen Ava Spotify Downloader
+# QueenAva Spotify Downloader
 
 <p align="center">
   <a href="https://www.python.org">
